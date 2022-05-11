@@ -79,4 +79,4 @@ PC방 특성 상 컴퓨터가 매우 많고, 이 컴퓨터들의 객체를 일�
 하위 클래스에서 달라지는 부분 즉 PC자리 번호를 재정의하는 방법을 사용한다.
 
 ## 시연 영상 및 발표 영상
-[![Video Label](https://img.youtube.com/vi/BuqNLZQmd-o/0.jpg)](https://youtu.be/BuqNLZQmd-o)  
+[![Video Label](https://img.youtube.com/vi/22AVF2PN9Mo-o/0.jpg)](https://youtu.be/22AVF2PN9Mo)  
