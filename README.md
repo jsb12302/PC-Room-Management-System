@@ -27,6 +27,8 @@
 ### Builder 패턴
  
 ![builder](image/builder.PNG)
+빌더 클래스를 static으로 생성한다. 빌더 클래스 생성자는 public으로 하여 필수 값들에 대해 생성자의 파라미터로 받는다. 빌더 클래스는 각 멤버변수에 set메서드를 할당해 멤버변수의 값을 변경하고 다시 빌더 객체를 반환한다. 반환한 빌더 클래스는 build() 메서드가 호출될 경우 SignUp을 반환해 객체를 생성해준다. 
+![image](https://user-images.githubusercontent.com/73890228/167765480-ba164c1c-ffd3-4311-b8f1-8464d5aeafdc.png)
 
 
 
